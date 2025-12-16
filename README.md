@@ -1,4 +1,4 @@
-## Hi there 👋
+# Intelligence Architect. Removing friction from logic. Attempting to build what will last.
 
 <!--
 **jeffreywilliamportfolio/jeffreywilliamportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
