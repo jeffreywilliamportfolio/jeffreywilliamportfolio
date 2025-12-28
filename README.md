@@ -8,8 +8,6 @@ I build resilient software systems.
 
 My background is in **System Architecture**, inspired by the engineering principles of precision instrumentation.
 
-I apply those same principles—**drift correction, feedback loops, and solid-state design**—to modern software development.
-
 #### Current Focus: Signal Lab
 
 https://github.com/jeffreywilliamportfolio/signal-lab-demo-version
