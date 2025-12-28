@@ -14,8 +14,7 @@ I apply those same principles—**drift correction, feedback loops, and solid-st
 
 https://github.com/jeffreywilliamportfolio/signal-lab-demo-version
 
-I am currently building **Signal Lab**, an agentic swarm framework designed to reduce "hallucination drift" in LLM outputs. 
-By implementing recursive verification loops, we ensure high-fidelity data processing for complex workflows. Initial public preview coming very soon.
+I am currently building **Signal Lab**, an agentic swarm research framework designed to reduce "hallucination drift" in LLM outputs. By implementing recursive verification loops, we ensure high-fidelity data processing for complex workflows. Initial public preview coming very soon.
 
 * **Stack:** TypeScript, Node.js, React, OpenAI-Agents SDK
 * **Focus:** Autonomous Agents, Recursive Logic, System Stability
