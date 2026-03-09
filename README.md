@@ -1,19 +1,9 @@
-# Jeffrey William - AI Forward Engineer
+# Jeffrey William Shorthill
 
-## Intelligence Architect. Removing friction from logic. Attempting to build what will last.
+## Building minimal solutions that just work.
 
-### Hi, I'm Jeffrey.
+Hi, I'm Jeffrey. I design and build systems that integrate AI tech to serve people who need it most. I believe what we make matters, and if it matters, we should do it right.
 
-I build resilient software systems.
+Currently: full stack dev and AI forward engineer at Gift Connect. Independent researcher studying MoE routing behavior in frontier language models. Previously Progressive Insurance's first prompt engineer.
 
-My background is in **System Architecture**, inspired by the engineering principles of precision instrumentation.
-
-#### Current Focus: Signal Lab
-
-https://github.com/jeffreywilliamportfolio/signal-lab-demo-version
-
-I am currently building **Signal Lab**, an agentic swarm research framework designed to reduce "hallucination drift" in LLM outputs. By implementing recursive verification loops, we ensure high-fidelity data processing for complex research workflows. Initial public preview coming very soon.
-
-* **Stack:** TypeScript, Node.js, React, OpenAI-Agents SDK
-* **Focus:** Autonomous Agents, Recursive Logic, System Stability
-  
+Feel free to reach out.
