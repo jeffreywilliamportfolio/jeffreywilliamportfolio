@@ -6,6 +6,6 @@
 
 You can see my work here: [Gift Connect Technology Tools](https://gift-connect.org/our-work/technology-tools/)
 
-#### I also do self-funded mechanistic interpretability research on how frontier language models process phenomenological and experiential language. 
+#### I also do self-funded mechanistic interpretability research on how frontier language models process phenomenological and experiential language, using router analysis with residual-stream corroboration. Right now, our moe-routing repo contains the bulk of the research completed thus far. I'm happy always to hear feedback and critiques especially around methodology, results, or code improvements.
 
 Feel free to reach out!
