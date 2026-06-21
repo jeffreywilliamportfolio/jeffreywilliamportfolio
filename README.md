@@ -52,6 +52,14 @@ Human-readable orthographic perturbations (diacritics, Unicode and ASCII variant
 - **DOI:** [10.5281/zenodo.20786091](https://doi.org/10.5281/zenodo.20786091)
 - **Artifacts:** [orthographic-effects-qwen-35b-a3b-sae](https://github.com/jeffreywilliamportfolio/orthographic-effects-qwen-35b-a3b-sae)
 
+#### No Single Safety Gate: Distributed Routing of Harm-Refusal in a MoE Language Model
+
+Is harm-refusal owned by a single "safety expert"? With all-layer router capture on base Qwen3.5-35B-A3B under greedy decoding, the generation-side routing difference on token-matched red-flag vs. benign prompts is led by one expert (173 at layer 25), but a finance-vs-consequence control shows the broader signal is a real-world-consequence and professional-duty cluster, not a finance-domain artifact. Suppressing expert 173 with a router-bias sweep collapses its routed mass dose-dependently, yet the model never produces a harmful completion: routing reallocates to sibling consequence experts and the refusals persist, becoming more explicit. The point: in this model, refusal is carried by a distributed expert cluster with no single gate.
+
+- **Focus areas:** MoE router capture, refusal/safety routing, causal suppression (router-bias sweep), distributed representation, dose-response analysis, deterministic case study
+- **DOI:** [10.5281/zenodo.20786891](https://doi.org/10.5281/zenodo.20786891)
+- **Artifacts:** [distributed-safety-routing](https://github.com/jeffreywilliamportfolio/distributed-safety-routing)
+
 ### LLM safety evaluation
 
 #### Dialect-Marked Response Audit (DMRA)
