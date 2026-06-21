@@ -24,8 +24,10 @@ All records below use **concept DOIs**, which always resolve to the latest versi
 
 --
 **The Generation Half: Why Prompt-Routing Studies Understate Domain Specialization in MoE Models**
+
 Mixture-of-experts (MoE) expert specialization by subject appears in the *generation* pass, not the *prefill* pass that most routing studies measure. Over prefill a single generalist expert wins almost every domain; over generation the winners disperse into distinct per-domain experts. The shift survives a length-matched control and reproduces across two model sizes whose expert indices do not correspond. The point: routing read off prefill, or pooled across passes, understates specialization — which reframes how prior negative results should be read.
 *Focus areas: MoE routing, prefill vs. generation, expert specialization, domain-winner concentration, length-matched controls, cross-model replication.*
+
 DOI: https://doi.org/10.5281/zenodo.20779604
 
 --
