@@ -23,7 +23,7 @@ Five preprints on mixture-of-experts routing and safety behavior (June to August
 
 ## Background
 
-AI Prompt Engineer at a Fortune 500. Full-stack indie dev for the last three years, focusing on cross-platform mobile apps. Prior education and career in recording engineering.
+Prompt Engineer at a Fortune 500. Full-stack indie dev for the last three years, focusing on cross-platform mobile apps. Prior education and career in recording engineering.
 
 ## Contact
 
