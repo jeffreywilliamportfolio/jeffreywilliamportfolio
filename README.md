@@ -27,4 +27,4 @@ AI Prompt Engineer at a Fortune 500. Full-stack indie dev for the last four year
 
 ## Contact
 
-jeffrey.w.shorthill@gmail.com
+jws299792@icloud.com
