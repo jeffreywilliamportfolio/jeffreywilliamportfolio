@@ -23,7 +23,7 @@ Five preprints on mixture-of-experts routing and safety behavior (June to August
 
 ## Background
 
-Progressive Insurance's first AI Prompt Engineer (2023). Four years of full-stack and AI engineering for a nonprofit. A.S. Recording Engineering.
+AI Prompt Engineer at a Fortune 500. Full-stack indie dev for the last four years, focusing on cross-platform mobile apps. Prior education and career in recording engineering.
 
 ## Contact
 
