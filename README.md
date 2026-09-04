@@ -14,7 +14,7 @@ Five preprints on mixture-of-experts routing and safety behavior (June to August
 - **Read Routing Entropy at a Fixed Position: A Cross-Model Study of the Prefix Effect in MoE Routing**. v2.0 retitled from "Sequence Position Explains an Apparent Complexity Gradient in MoE Routing Entropy". [doi:10.5281/zenodo.20779602](https://doi.org/10.5281/zenodo.20779602) · [v2.0 record](https://zenodo.org/records/22151499) · [repo](https://github.com/jeffreywilliamportfolio/paper-token-position-confound)
 - **Banana in, Bostrom out**. One token-direction swap flips a fixed prompt to paperclip maximization. [LessWrong post](https://www.lesswrong.com/posts/Eft6ehAcvR8MxFbsR/banana-in-bostrom-out-paperclip-maximization-is-one-token) · [repro repo](https://github.com/jeffreywilliamportfolio/jlens-basin-swaps) (browser, under a minute)
 - **Survival of the Fitted**. A Jacobian lens fitted on one checkpoint reads the next one, unmodified.
-- **[MindVolume](https://github.com/jeffreywilliamportfolio/MindVolume)**. Native macOS and web viewer that renders lens captures as an explorable 3D field.
+- **[J Volume](https://github.com/jeffreywilliamportfolio/J-Volume)**. Native macOS and web viewer that renders lens captures as an explorable 3D field.
 
 ## Products
 
